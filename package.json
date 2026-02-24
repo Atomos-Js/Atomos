@@ -6,14 +6,20 @@
     "atomos": "vite",
     "atomos:create": "vite build",
     "atomos:structure": "vite preview",
-    "setup": "npm install"
+    "setup": "npm install",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/vite": "^4.2.0",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.0",
+    "tailwindcss": "^4.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.1.4",
