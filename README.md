@@ -54,7 +54,7 @@ Run these commands to get started immediately:
 
 ```bash
 # Clone the repo and enter the folder
-git clone [https://github.com/Atomos-Js/Atomos.git](https://github.com/Atomos-Js/Atomos.git)
+git clone https://github.com/Atomos-Js/Atomos.git
 cd Atomos
 
 # Install dependencies
